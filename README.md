@@ -9,7 +9,7 @@ The dataset is comprised of open-source datasets from Kaggle on the following pa
   - Active Cases and Deaths
   - Vaccinations
  
- Full details of the data are [here]((https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india/))
+ Full details of the data are [here](https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india/)
 # Tools 
 For this project, the following python libraries were used:
   - pandas: for data analysis
